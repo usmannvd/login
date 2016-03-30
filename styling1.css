@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form1
+{
+height:120px;
+background-color:#888;
+
+
+}
+
+#form1 form
+{
+	margin-left:40px;
+
+}
+
+.button1
+{
+margin-left:200px;
+
+
+
+}
+
+.button2
+{
+margin-left:700px;
+
+
+}
+
+#create
+{
+
+background-color:grey;
+
+}
+
+#create form
+{
+margin-left:20px; 
+
+}
+
+.text1
+{
+margin-left:25px;
+
+}
+
+.button3
+{
+margin-left:30px;
+
+}
+
+
+
